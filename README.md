@@ -15,3 +15,5 @@
 <h1>Решение:</h1>
 
 ![image](https://user-images.githubusercontent.com/108890950/183304192-f9f39c76-65da-4975-8f18-971b2494e12b.png)
+
+Код: https://github.com/SaintFLOK/Python/blob/be328ab5fea9100bc69b0c8170ce401c7ceb5f38/Profit.py
